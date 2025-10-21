@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Selamat 5 Tahun 6 Bulan, Abang</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1f2c3a;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background-color: #15202b;
+      padding: 20px;
+    }
+    header img {
+      width: 100%;
+      max-height: 500px;
+      object-fit: cover;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 2.5em;
+      color: #f2c94c;
+    }
+    .content {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.8;
+      font-size: 1.1em;
+    }
+    .highlight {
+      color: #f2c94c;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.imgur.com/C2iV9v1.jpg" alt="Foto Abang & Ndut">
+  </header>
+
+  <h1>Happy 5 Tahun 6 Bulan, Abang ❤️</h1>
+
+  <div class="content">
+    <p>
+      Untuk kamu, yang hatinya selalu jadi rumah buat aku pulang...  
+    </p>
+    <p>
+      Hari ini, kita sampai di titik yang nggak mudah — 5 tahun 6 bulan. Waktu yang penuh cerita, penuh jarak, dan penuh rindu yang nggak pernah benar-benar selesai.
+    </p>
+    <p>
+      Kita udah melewati banyak hal; tawa, tangis, perdebatan, juga diam yang kadang bikin takut. Tapi dari semua pasang surut itu, satu hal yang selalu aku syukuri: <span class="highlight">kamu tetap ada di sini</span>.
+    </p>
+    <p>
+      Terima kasih karena tetap memilih aku, walau aku belum jadi pasangan yang sempurna. Terima kasih karena kamu tetap memperjuangkan aku di tengah lelahmu. Dan maaf... maaf kalau aku masih sering egois, belum cukup sabar, dan belum sepenuhnya bisa ngerti kondisi abang sebagai tentara yang sedang berjuang juga.
+    </p>
+    <p>
+      Aku janji... Aku akan berubah. Aku akan belajar jadi lebih sabar, lebih pengertian, dan jadi tempat paling nyaman buat abang pulang kapan pun abang butuh sandaran.
+    </p>
+    <p>
+      LDR ini kadang bikin aku ngerasa sendiri. Tapi bukan karena aku lelah mencintaimu. Aku cuma ingin dipeluk — untuk sedikit saja meredakan rindu yang terlalu berat. Aku cuma ingin tahu kalau kamu masih di sini, masih sama aku.
+    </p>
+    <p>
+      Abang, tetaplah jadi <span class="highlight">tempat aku pulang</span>. Jadi satu-satunya sandaran terakhir aku. Karena nggak ada satu pun yang bisa dibandingin sama abang. Bahkan mantan-mantanku pun... nggak ada artinya.
+    </p>
+    <p>
+      Kamu adalah orang yang paling spesial, dan <span class="highlight">nggak akan pernah bisa digantikan siapa pun</span>.
+    </p>
+    <p>
+      Semoga abang selalu mau jadi sandaran ternyamanku. Karena selama abang mau pulang, aku akan selalu jadi rumah yang nungguin kamu — Ndut yang selalu cinta kamu.
+    </p>
+  </div>
+
+  <footer>
+    &mdash; Dibuat dengan cinta oleh Ndut, untuk Abang tersayang. 22 Oktober 💛
+  </footer>
+</body>
+</html>
